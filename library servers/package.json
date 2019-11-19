@@ -1,0 +1,29 @@
+{
+  "name": "learningapinode",
+  "version": "1.0.0",
+  "description": "learning to use node",
+  "main": "node_messing_about.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mysql2": "^2.0.0",
+    "pancakes": "^0.1.156",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha tests/*.spec.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hazzydude"
+  },
+  "author": "hazzydude",
+  "license": "ISC"
+}

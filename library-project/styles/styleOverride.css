@@ -1,0 +1,61 @@
+
+.card {
+    
+    background: #F5F5F5;
+    margin: auto;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: #007BFF;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+
+}
+
+.buttonBar{
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.titleDiv{
+    margin-bottom: 125px;
+}
+
+.barTitle{
+display: inline-block;
+margin-Right: 110px;
+width:260px
+}
+
+
+.buttonBarButton{
+    display: inline-block;
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+    
+}
+.sectionHeader{
+    margin-bottom: 25px;
+}
+
+.smallImageRes {
+height: 150px;
+}
+.imageRes {
+height: 300px;
+}
+
+.itemContainer {
+    background: #F5F5F5;
+    padding: 30px;
+    border: #007BFF;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+}
+
+
